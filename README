@@ -1,0 +1,1 @@
+We've fixed some bugs in the original lineda package. The cppunit package which provides the necessary header files and libraries for unit testing is also included in the tarball. The lindea package is ready for build with GNU make. You canalso use cmake or qmake to customize your own build.
